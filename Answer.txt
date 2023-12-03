@@ -1,6 +1,3 @@
-## Bing
-Olá, este é o Bing. Eu posso tentar criar um modelo de landing page para o site de vendas online chamado Diretoria. Aqui está um exemplo de como poderia ser:
-
 <html>
 <head>
     <title>Diretoria - O site de vendas online que você precisa</title>
