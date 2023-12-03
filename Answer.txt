@@ -1,0 +1,112 @@
+## Bing
+Olá, este é o Bing. Eu posso tentar criar um modelo de landing page para o site de vendas online chamado Diretoria. Aqui está um exemplo de como poderia ser:
+
+<html>
+<head>
+    <title>Diretoria - O site de vendas online que você precisa</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        .container {
+            width: 80%;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .logo {
+            height: 80px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .logo img {
+            height: 100%;
+        }
+
+        .nav {
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background-color: #f0f0f0;
+        }
+
+        .nav ul {
+            list-style: none;
+            display: flex;
+        }
+
+        .nav ul li {
+            margin: 0 10px;
+        }
+
+        .nav ul li a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+
+        .nav ul li a:hover {
+            color: #555;
+        }
+
+        .hero {
+            height: 500px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-image: url("https://images.unsplash.com/photo-1515879218367-8466d910aaa4");
+            background-size: cover;
+            background-position: center;
+        }
+
+        .hero h1 {
+            color: white;
+            font-size: 48px;
+            text-align: center;
+        }
+
+        .footer {
+            height: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #333;
+        }
+
+        .footer p {
+            color: white;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo1.png" alt="Diretoria logo">
+        </div>
+        <div class="nav">
+            <ul>
+                <li><a href="#">Quem somos</a></li>
+                <li><a href="#">Produtos</a></li>
+                <li><a href="#">Orçamentos</a></li>
+                <li><a href="#">Seja um parceiro</a></li>
+                <li><a href="#">Fale conosco</a></li>
+            </ul>
+        </div>
+        <div class="hero">
+            <h1>Diretoria - O site de vendas online que você precisa</h1>
+        </div>
+    </div>
+    <div class="footer">
+        <p>© 2023 Diretoria. Todos os direitos reservados.</p>
+    </div>
+</body>
+</html>
+
+Espero que você goste deste modelo. Você pode modificar o código para personalizar o seu site. 😊
