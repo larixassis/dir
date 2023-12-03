@@ -105,5 +105,3 @@
     </div>
 </body>
 </html>
-
-Espero que você goste deste modelo. Você pode modificar o código para personalizar o seu site. 😊
